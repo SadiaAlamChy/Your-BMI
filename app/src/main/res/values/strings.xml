@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Your BMI</string>
+    <string name="calculate_your_bmi">Calculate Your BMI</string>
+    <string name="healthy">Healthy</string>
+    <string name="overweight">Overweight</string>
+    <string name="obesity">Obesity</string>
+    <string name="_18_5_underweight"><![CDATA[18.5 < UNDERWEIGHT]]></string>
+    <string name="_18_50_24_90_healthy_weight">18.50-24,90 HEALTHY WEIGHT</string>
+    <string name="_25_29_99_overweight">25-29.99 OVERWEIGHT</string>
+    <string name="_30_obese"><![CDATA[30 > OBESE]]></string>
+</resources>
